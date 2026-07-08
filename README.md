@@ -19,9 +19,7 @@
 
 ### 🚀 About Me
 
-- 🎓 B.Tech in Computer Science (AI/ML) @ **KITSW**, 2023–2026
 - 🛠️ I build full-stack apps with **type-safe APIs**, **relational data modeling**, and **CI/CD pipelines**
-- 🔐 Focused on secure auth patterns — JWT, RBAC, cookie-based sessions
 - ☁️ Comfortable across the stack: from Docker/AWS deployment to React frontends
 
 ---
@@ -78,16 +76,6 @@ A monorepo blogging platform with clean separation between frontend, backend, an
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DeshiniShivadatta&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeshiniShivadatta&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeshiniShivadatta&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
 ---
 
